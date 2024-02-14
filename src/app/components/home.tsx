@@ -30,7 +30,7 @@ const Home = () => {
       )}
     {!accept && (
       <section className='flex gap-2 mt-8 justify-center items-center'>
-      <button style={{height:!no?'':`${height}svh`,width:!no?'':`${height}svw`}} className='bg-[#088948] p-2 rounded-md text-white font-bold text-3xl' onClick={()=>{Yes();setNo(false)}}>Yes</button>
+      <button style={{height:!no?'':`${height}svh`,width:!no?'':`${height}svw`}} className='bg-[#088948] p-2 rounded-md text-white font-bold text-3xl' onClick={()=>{Yes()}}>Yes</button>
       
       <button  onClick={()=>{setCnt(cnt+1);setHeight(height+10);setNo(true)}} className='bg-[#ff0808] p-2 rounded-md text-white font-bold text-3xl w-auto'><h1>{myArray[cnt]}</h1></button>
   </section>
