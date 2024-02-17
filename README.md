@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Repo Banner](https://github.com/pritamjoardar/bemyvalentine/assets/111422356/bc0ad4cc-72cc-4314-a546-4276cb2d5d51)
 
-## Getting Started
+# Be my Valentine
 
-First, run the development server:
+It's a fun project !
+You send it to your crush and there are no option to be rejected.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+https://github.com/pritamjoardar/bemyvalentine/assets/111422356/befd3b0c-d2a2-4141-9937-afa8f023c460
+
+
+
+
+### Don't forget to :star: the repo
+
+
+## Features
+much more...
+Check it yourself :)
+
+## License
+
+```
+Copyright © 2024 Pritam Joardar
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Building from Source
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Fetch latest source code from main branch.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+https://github.com/pritamjoardar/bemyvalentine.git
+```
 
-## Learn More
+2. Run the app with VS Code. Or the command line:
 
-To learn more about Next.js, take a look at the following resources:
+```
+npm i 
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contribute
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions are welcome. 
+## Facing any Issue?
 
-## Deploy on Vercel
+## Liked my work?
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<a href="https://www.buymeacoffee.com/pritamjoardar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
