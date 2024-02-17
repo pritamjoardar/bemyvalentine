@@ -5,6 +5,7 @@
 It's a fun project !
 You send it to your crush and there are no option to be rejected.
 
+You can preview and try the website live in Vercel here : [valentine-pearl-eta.vercel.app](https://valentine-pearl-eta.vercel.app/)
 
 https://github.com/pritamjoardar/bemyvalentine/assets/111422356/befd3b0c-d2a2-4141-9937-afa8f023c460
 
